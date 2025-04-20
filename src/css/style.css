@@ -8,3 +8,24 @@
 html {
     font-size: 62,5%;
 }
+
+body {
+    font-size: 1.6rem;
+}
+
+
+
+:root {
+    --color: #A9D6E5;
+    --color: #1B4965;
+    --color: #F4E8C1;
+    --color: #FFFFFF;
+    --color: #5FAE7D;
+}
+
+a {
+    text-decoration: none;
+    color:  #FFFFFF ;
+    font-weight: 900;
+    transition: 0.5s;
+}
